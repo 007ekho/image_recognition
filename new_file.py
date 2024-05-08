@@ -2,7 +2,8 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from PIL import Image
 import io
-from io import BytesIOimport cv2
+from io import BytesIO
+import cv2
 from orb_script import orb
 from orb_script import plot_it
 
