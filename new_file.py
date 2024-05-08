@@ -1,16 +1,8 @@
 import streamlit as st
-import streamlit as st
-import sqlite3
 import matplotlib.pyplot as plt
 from PIL import Image
 import io
-from io import BytesIO
-from joblib import load
-from new import verifyFace,preprocess_image,findCosineSimiliarity, verify
-import matplotlib.pyplot as plt
-from deepface import DeepFace
-import matplotlib.pyplot as plt
-import cv2
+from io import BytesIOimport cv2
 from orb.orb_script import orb
 from orb.orb_script import plot_it
 
