@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import io
 from io import BytesIOimport cv2
-from orb.orb_script import orb
-from orb.orb_script import plot_it
+from orb_script import orb
+from orb_script import plot_it
 
 
 
